@@ -1,1 +1,1 @@
-# AI-Tooling-for-crypto-updates-tracking
+# practice project1
