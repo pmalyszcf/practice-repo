@@ -1,1 +1,1 @@
-# AI-Tooling-for-crypto-updates-tracking
+# Practice-repo
